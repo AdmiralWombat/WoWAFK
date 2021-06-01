@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\dmhardzi\source\repos\WoWAFK\WoWAFK\main.cpp(135,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WoWAFK.vcxproj -> C:\Users\dmhardzi\source\repos\WoWAFK\Debug\WoWAFK.exe
